@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 
 namespace WorkingWithVisualStudio.Models {
-    public class SimpleRepository {
+    public class SimpleRepository : IRepository {
         private static SimpleRepository sharedRepository = new SimpleRepository();
         private Dictionary<string, Product> products
             = new Dictionary<string, Product>();
@@ -18,7 +18,7 @@ namespace WorkingWithVisualStudio.Models {
             foreach (var p in initialItems) {
                 AddProduct(p);
             }
-            products.Add("Error", null);
+            //products.Add("Error", null);
         }
 
         public IEnumerable<Product> Products => products.Values;

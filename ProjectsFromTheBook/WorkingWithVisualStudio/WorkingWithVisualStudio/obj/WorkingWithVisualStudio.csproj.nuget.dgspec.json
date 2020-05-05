@@ -14,7 +14,8 @@
         "outputPath": "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\seanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,7 +45,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.All": {
               "target": "Package",
-              "version": "[2.2.8, )"
+              "version": "[2.0.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

@@ -13121,7 +13121,8 @@
   },
   "packageFolders": {
     "C:\\Users\\seanb\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -13133,7 +13134,8 @@
       "outputPath": "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\seanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
