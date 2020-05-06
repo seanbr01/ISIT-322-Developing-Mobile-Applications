@@ -14,6 +14,12 @@ let serveNextPage = (response) => {
     response.end();
 }
 
+let send404Error = (response) => {
+    response.writeHead(404, { "Content-Type": "text/html"});
+    response.write("Error 404: Page not Found.");
+    response.end('This is the end.');
+}
+
 http.createServer();
 
 let onRequest = (request, response) => {
@@ -22,6 +28,9 @@ let onRequest = (request, response) => {
     }
     else if (request.method == 'GET' && request.url == '/nextpage') {
         serveNextPage(response);
+    }
+    else {
+        send404Error(response);
     }
 }
 
