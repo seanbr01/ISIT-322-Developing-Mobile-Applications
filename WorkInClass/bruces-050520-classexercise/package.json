@@ -9,7 +9,7 @@
     "devstart": "nodemon express.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sean Bruce",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
