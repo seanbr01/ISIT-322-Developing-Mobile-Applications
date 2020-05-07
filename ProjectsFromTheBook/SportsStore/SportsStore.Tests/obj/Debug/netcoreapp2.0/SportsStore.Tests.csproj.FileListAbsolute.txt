@@ -1,0 +1,42 @@
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.deps.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.dev.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.dll
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csprojAssemblyReference.cache
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfo.cs
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CopyComplete
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.dll
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.genruntimeconfig.cache
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\bower.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.deps.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.dev.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.dll
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csprojAssemblyReference.cache
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfoInputs.cache
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfo.cs
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CopyComplete
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.dll
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.genruntimeconfig.cache

@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+        "projectName": "SportsStore.Tests",
+        "projectPath": "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+        "packagesPath": "C:\\Users\\seanb\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\SportsStore\\SportsStore.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\seanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\SportsStore\\SportsStore\\SportsStore.csproj": {
+                "projectPath": "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\SportsStore\\SportsStore\\SportsStore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.3.0-preview-20170628-02, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.7.99, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\SportsStore\\SportsStore\\SportsStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectName": "SportsStore",
+        "projectPath": "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "packagesPath": "C:\\Users\\seanb\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\ISIT-322-Developing-Mobile-Applications\\ProjectsFromTheBook\\SportsStore\\SportsStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\seanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

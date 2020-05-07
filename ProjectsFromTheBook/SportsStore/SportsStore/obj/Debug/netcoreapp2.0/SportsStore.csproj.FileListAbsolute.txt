@@ -1,0 +1,30 @@
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\seanb\Downloads\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.genruntimeconfig.cache
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\bower.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.genruntimeconfig.cache
+D:\Repo\ISIT-322-Developing-Mobile-Applications\ProjectsFromTheBook\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
