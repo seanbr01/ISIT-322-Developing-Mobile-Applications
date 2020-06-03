@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\313179e55bbef66db2121c0d7bf291cb\databinding-adapters-3.6.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\86a80f3c570b21b5363009cb10c447bc\databinding-runtime-3.6.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\1360fc68507aa9c7854ee6f26a43a7d8\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:3.6.3] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\149cca75754f716e455d385900521809\jetified-viewbinding-3.6.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\71547a001d50c56417275b55c632a7b8\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\995103afe343998fe15a941250905e79\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\4dcc5a5f36d9de0b2000f503c481b507\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\feb88f4a1432f0c856d656b4861a5d1d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\371c65a4766440c49326cd9dc060a4af\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\94f904e222b1a2fcc8b9a829555b9712\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\0a0aa46143fc992fd65183999c3a5ab4\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\b37c5336dfc843e6fac2a1ccda525241\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\79234141230b0f5f1761ee6c7d0afac7\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\959666857ccf1200fc9fb941847fff72\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\ed5080f971e6841debebb27a7d6b6686\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\8c6f0906b4767ba7d2da95a28df396c0\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\4ee15de1ab1fc8a2fd780f7b9749e3cb\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\768f1e21767b027275f1d35538896629\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\a74db9b44084ef7c673efa566034d366\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\9f5663ffa98c08e41ae253ca97068cf2\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\08441540f0f28957db5bc9468fbd4b80\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\4468d842f02a65e2770a1a113590348a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\5a98483aff20bc61568b28e95af05b16\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\295939bf97e11bc684e111a66c2dc182\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\3c8a4553906055b80852f53bc0771d32\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\5a2a67a1c6ca2fd83646dc8e0e7f4395\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\49b3ffbb403f03b1c76c44ffa999fa13\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\eebf16d3a4e74080a3816eb2702d32e2\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\b2e6cd5dddc005c36a0e3ee797f23f37\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:19:5-42
+		INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:21:5-35:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\768f1e21767b027275f1d35538896629\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\768f1e21767b027275f1d35538896629\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\9f5663ffa98c08e41ae253ca97068cf2\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\9f5663ffa98c08e41ae253ca97068cf2\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\768f1e21767b027275f1d35538896629\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.aboutme.MainActivity
+ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\313179e55bbef66db2121c0d7bf291cb\databinding-adapters-3.6.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\313179e55bbef66db2121c0d7bf291cb\databinding-adapters-3.6.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\86a80f3c570b21b5363009cb10c447bc\databinding-runtime-3.6.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\86a80f3c570b21b5363009cb10c447bc\databinding-runtime-3.6.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\1360fc68507aa9c7854ee6f26a43a7d8\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\1360fc68507aa9c7854ee6f26a43a7d8\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.3] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\149cca75754f716e455d385900521809\jetified-viewbinding-3.6.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.3] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\149cca75754f716e455d385900521809\jetified-viewbinding-3.6.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\71547a001d50c56417275b55c632a7b8\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\71547a001d50c56417275b55c632a7b8\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\995103afe343998fe15a941250905e79\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\995103afe343998fe15a941250905e79\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\4dcc5a5f36d9de0b2000f503c481b507\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\4dcc5a5f36d9de0b2000f503c481b507\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\feb88f4a1432f0c856d656b4861a5d1d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\feb88f4a1432f0c856d656b4861a5d1d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\371c65a4766440c49326cd9dc060a4af\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\371c65a4766440c49326cd9dc060a4af\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\94f904e222b1a2fcc8b9a829555b9712\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\94f904e222b1a2fcc8b9a829555b9712\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\0a0aa46143fc992fd65183999c3a5ab4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\0a0aa46143fc992fd65183999c3a5ab4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\b37c5336dfc843e6fac2a1ccda525241\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\b37c5336dfc843e6fac2a1ccda525241\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\79234141230b0f5f1761ee6c7d0afac7\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\79234141230b0f5f1761ee6c7d0afac7\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\959666857ccf1200fc9fb941847fff72\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\959666857ccf1200fc9fb941847fff72\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\ed5080f971e6841debebb27a7d6b6686\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\ed5080f971e6841debebb27a7d6b6686\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\8c6f0906b4767ba7d2da95a28df396c0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\8c6f0906b4767ba7d2da95a28df396c0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\4ee15de1ab1fc8a2fd780f7b9749e3cb\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\4ee15de1ab1fc8a2fd780f7b9749e3cb\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\768f1e21767b027275f1d35538896629\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\768f1e21767b027275f1d35538896629\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\a74db9b44084ef7c673efa566034d366\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\a74db9b44084ef7c673efa566034d366\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\9f5663ffa98c08e41ae253ca97068cf2\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\9f5663ffa98c08e41ae253ca97068cf2\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\08441540f0f28957db5bc9468fbd4b80\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\08441540f0f28957db5bc9468fbd4b80\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\4468d842f02a65e2770a1a113590348a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\4468d842f02a65e2770a1a113590348a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\5a98483aff20bc61568b28e95af05b16\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\5a98483aff20bc61568b28e95af05b16\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\295939bf97e11bc684e111a66c2dc182\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\295939bf97e11bc684e111a66c2dc182\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\3c8a4553906055b80852f53bc0771d32\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\3c8a4553906055b80852f53bc0771d32\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\5a2a67a1c6ca2fd83646dc8e0e7f4395\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\5a2a67a1c6ca2fd83646dc8e0e7f4395\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\49b3ffbb403f03b1c76c44ffa999fa13\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\49b3ffbb403f03b1c76c44ffa999fa13\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\eebf16d3a4e74080a3816eb2702d32e2\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\eebf16d3a4e74080a3816eb2702d32e2\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\b2e6cd5dddc005c36a0e3ee797f23f37\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\seanb\.gradle\caches\transforms-2\files-2.1\b2e6cd5dddc005c36a0e3ee797f23f37\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		ADDED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Repo\ISIT-322-Developing-Mobile-Applications\AndroidLearning\AboutMeDataBinding\app\src\main\AndroidManifest.xml
